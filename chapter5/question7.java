@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 // Repeat 6 using while loop
-public class question7_5 {
+public class question7 {
    public static void main(String[] args) {
        Scanner sc =  new Scanner(System.in);
        System.out.print("Enter the number:-");

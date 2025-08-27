@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 // White a program fo find factorial of a given number using for loop
-public class question6_5 {
+public class question6 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

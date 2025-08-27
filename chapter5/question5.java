@@ -1,6 +1,6 @@
 // Write a program to print muliplicatiom table of 10 in reverse order.
   import java.util.Scanner;
-public class question5_5 {
+public class question5 {
   
 
 

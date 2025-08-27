@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class question3_5 {
+public class question3 {
 
     public static void main(String[] args) {
         System.out.print("Enter the number of terms:-");
